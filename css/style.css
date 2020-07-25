@@ -9,6 +9,7 @@ header{
     background-color:#efefef;
     padding-top: 32px;
     padding-bottom:31px;
+    line-height:1.8;
 }
 .container{
     /* background-color:pink; */
@@ -17,6 +18,7 @@ header{
     margin-right:auto;
     display: flex;
     align-items: center;
+    
 }
 .icon{
     /* background-color: skyblue; */
