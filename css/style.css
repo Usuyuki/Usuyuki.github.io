@@ -86,3 +86,10 @@ footer p{
     margin-bottom: 60px;
     color:gray;
 }
+p.kome{
+    font-size: 10px;
+    color:gray;
+}
+p.hizuke{
+    color:#0000AA;
+}
