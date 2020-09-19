@@ -112,3 +112,7 @@ p.hizuke{
 .page-seni:hover{
     background: #4faaff;/*背景色*/
 }
+
+.center{
+    text-align: center;
+}
