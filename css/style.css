@@ -95,7 +95,7 @@ p.hizuke{
 }
 
 /* ボタン関係 */
-  .page-seni a{
+.page-seni a{
     color: white;
     text-decoration: none;
 }
@@ -115,4 +115,24 @@ p.hizuke{
 
 .center{
     text-align: center;
+}
+
+.waku{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    /* font-weight: bold; */
+    color:#87c5ff;/*文字色*/
+    background: #FFF;
+    border: solid 3px #87c5ff;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+.waku a{
+    text-decoration: none;
+    color:#87c5ff;/*文字色*/
+}
+.waku a:hover{
+    color: #6b9cc9;/*文字色*/
+}
+.video{
+    margin: 0px auto;
 }
