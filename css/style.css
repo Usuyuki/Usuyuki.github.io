@@ -54,6 +54,9 @@ header{
     margin-right: 8px;
 }
 
+.sns ul li{
+    margin-right: 13px;
+}
 .hobbies{
     width: 400px;
     margin-left: auto;
