@@ -16,8 +16,8 @@ h2{
     font-weight: bold;
     font-size: 22px;
     text-align:center;
-    margin-top:60px;
-    margin-bottom: 60px;
+    /* margin-top:60px;
+    margin-bottom: 60px; */
 }
 
 h3{
@@ -36,9 +36,7 @@ h3{
     align-items: center;
     
 }
-.icon{
-    /* background-color: skyblue; */
-}
+
 .icon img{
     /* border-radius: 20px; */
     border-radius: 50%; 
@@ -155,4 +153,23 @@ p.hizuke{
 }
 .video{
     margin: 0px auto;
+}
+.lang{
+    color:#25aa00;
+
+}
+/* section p{
+    text-align:center;
+} */
+.detail p{
+
+    line-height:7px;
+    text-align:right;
+}
+section h3{
+    text-align:center;
+}
+section img{
+    margin:0 auto;
+    display:block;
 }
