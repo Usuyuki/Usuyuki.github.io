@@ -137,7 +137,7 @@ p.hizuke {
   /* font-weight: bold; */
   color: #87c5ff; /*文字色*/
   background: #fff;
-  border: 2px double #a2bdc8; /*線*/
+  border: 2px solid #a2bdc8; /*線*/
   border-radius: 25% 10%;
 }
 .waku a {
